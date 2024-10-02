@@ -1,0 +1,7 @@
+flask
+transformers
+faiss-cpu
+torch
+numpy
+scikit-learn
+beautifulsoup4
